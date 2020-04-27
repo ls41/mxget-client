@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>org.example.mxget-client</id>
+    <id>org.reshuffle.mxget</id>
     <name>mxget-client</name>
     <vendor email="ls41@qq.com" url="http://www.bing.com">ls41</vendor>
 
